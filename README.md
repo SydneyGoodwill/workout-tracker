@@ -26,7 +26,7 @@
   
   ## URL
   
-  [Workout Tracker](https://dashboard.heroku.com/apps/dry-ravine-99561/deploy/github)
+  [Workout Tracker](https://dry-ravine-99561/deploy/github)
 
   ## Contributors
   Sydney Goodwill
