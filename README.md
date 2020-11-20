@@ -1,7 +1,7 @@
 # workout-tracker
 
   ## License
-    [!License: MIT]((https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+    [!License: MIT](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
     
 ## Title
   workout-tracker
